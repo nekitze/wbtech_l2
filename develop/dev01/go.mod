@@ -1,6 +1,6 @@
-module wbtech_l2
+module github.com/nekitze/wbtech_l2/develop/dev01
 
-go 1.22
+go 1.22.2
 
 require (
 	github.com/beevik/ntp v1.4.2 // indirect
